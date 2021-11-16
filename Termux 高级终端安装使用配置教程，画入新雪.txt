@@ -1,20 +1,37 @@
-Termux除了支持apt命令外,还在此基础上封装了pkg命令,pkg命令向下兼容apt命令.apt命令大家应该都比较熟悉了,这里直接简单的介绍下pkg命令:
+Termux除了支持apt命令外,还在此基础上封装了pkg命令,
+
+pkg命令向下兼容apt命令.apt命令大家应该都比较熟悉了,
+
+这里直接简单的介绍下pkg命令:
 
 pkg search <query>              搜索包
+
 pkg install <package>           安装包
+
 pkg uninstall <package>         卸载包
+
 pkg reinstall <package>         重新安装包
+
 pkg update                      更新源
+
 pkg upgrade                     升级软件包
+
 pkg list-all                    列出可供安装的所有包
+
 pkg list-installed              列出已经安装的包
+
 pkg shoe <package>              显示某个包的详细信息
+
 pkg files <package>             显示某个包的相关文件夹路径
+
 目录环境结构
+
 ~ > echo $HOME
+
 /data/data/com.termux/files/home
 
- ~ > echo $PREFIX
+ 
+~ > echo $PREFIX
 /data/data/com.termux/files/usr
 
  ~ > echo $TMPPREFIX
@@ -23,4 +40,13 @@ pkg files <package>             显示某个包的相关文件夹路径
 
 
 
+画入新雪
+
 https://www.cnblogs.com/cutesnow/articles/11430833.html
+
+
+
+
+
+
+
