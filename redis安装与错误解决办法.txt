@@ -1,0 +1,30 @@
+
+redis 安装 与错误解决办法
+
+
+
+https://blog.csdn.net/weixin_44843859/article/details/109432457
+
+Redis-Linux安装redis报错：zmalloc.h:50:31: 致命错误：jemalloc/jemalloc.h：没有那个文件或目录 
+
+make MALLOC=libc
+
+————
+
+换源
+
+vim $PREFIX/etc/apt/sources.list
+
+————
+
+
+
+redis 安装 与错误解决办法 
+
+https://www.cnblogs.com/operationhome/p/9752935.html
+
+
+
+
+
+
