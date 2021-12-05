@@ -107,5 +107,13 @@ cd    /data/data/com.termux/files/usr
 
 clear换页clear
 
+看看    error 错误信息
+
+configure: error: no acceptable ld found in $PATH
+
+
+
+
+
 
 
