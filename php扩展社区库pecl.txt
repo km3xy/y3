@@ -18,6 +18,11 @@ http://pecl.php.net/package/redis
 
 
 
+#  stable版本的是稳定版的
+
+带有DLL标识的是windows系统的
+
+
 wget http://pecl.php.net/get/redis-2.2.4.tgz
 
 
