@@ -86,3 +86,7 @@ https://blog.csdn.net/qq_33008305/article/details/121492398
 Termux中安装gcc-7/gfortran-7实操过程，安装成功可以编译Fortran,c/c++
 
 https://www.cnblogs.com/BlogOfMr-Leo/p/8660920.html
+
+
+
+
